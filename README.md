@@ -9,5 +9,5 @@ estudo inglês por textos com áudio e fiz esse programa para praticar habilidad
 1. Tem a opção de verificar quais palavras mais se repetiram e é apresentado na ordem decrescente.
 1. Também tem a opção de verificar o total de palavras novas na base. (já que o objetivo era saber o total de palavras que eu estava aprendendo)
 ### Observações:
-**O executável foi criado, mas não tá rodando corretamente o programa. Porém funciona perfeitamente no terminal.**
-**Remova todas as quebras de linha (\n) do texto antes de confirmar a inserção**
+**1. O executável foi criado, mas não tá rodando corretamente o programa. Porém funciona perfeitamente no terminal.**
+**1. Remova todas as quebras de linha (\n) do texto antes de confirmar a inserção**
